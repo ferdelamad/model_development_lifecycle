@@ -8,6 +8,7 @@ ipykernel = "==6.28.0"
 python-dotenv = "==1.0.0"
 scikit-learn = "*"
 pandas = "*"
+matplotlib = "*"
 
 [dev-packages]
 
