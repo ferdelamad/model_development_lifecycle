@@ -14,7 +14,7 @@ By the end of this section, you will have hands-on experience with **Linear Regr
 Here are the most common regression algorithms we will explore in this section:
 
 - 🏡 **Linear Regression**: The simplest form of regression, where the model learns the relationship between input features and the target variable as a straight line.
-  - 📚 [Exercise - Predicting House Prices](./linear/linear.ipynb) - In this example, we predict house prices based on features like area, number of bedrooms, and age of the house.
+  - 📚 [Exercise - Predicting House Prices](./linear/README.md) - In this example, we predict house prices based on features like area, number of bedrooms, and age of the house.
 
 - 🏞️ **Random Forest Regression**: A tree-based ensemble method that combines multiple decision trees to improve prediction accuracy and reduce overfitting.
   - 📚 [Exercise - Predicting Bike Rentals](./random-forest/README.md) (WIP 🚧)  - Let's predict the number of bike rentals based on features like season, weather, time of day, and holiday status.
