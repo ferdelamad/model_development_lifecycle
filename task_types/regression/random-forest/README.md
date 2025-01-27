@@ -23,4 +23,4 @@ In short, **Random Forest** is a machine learning algorithm designed to capture 
 
 Now it’s time to dive in and get hands-on with the exercise. In the next section, you’ll implement a Random Forest model to predict bike rentals and explore how to tackle real-world regression problems.
 
- 📚 [Exercise - Predicting Bike Rentals](./random-forest.ipynb) (WIP 🚧)
+ 📚 [Exercise: Random Forest Regression - Predicting Bike Rentals](./random-forest.ipynb) (WIP 🚧)
