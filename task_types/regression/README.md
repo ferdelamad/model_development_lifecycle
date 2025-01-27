@@ -17,7 +17,7 @@ Here are the most common regression algorithms we will explore in this section:
   - 📚 [Exercise - Predicting House Prices](./linear/linear.ipynb) - In this example, we predict house prices based on features like area, number of bedrooms, and age of the house.
 
 - 🏞️ **Random Forest Regression**: A tree-based ensemble method that combines multiple decision trees to improve prediction accuracy and reduce overfitting.
-  - 📚 (WIP 🚧) [Exercise - Predicting Bike Rentals](./random-forest/random-forest.ipynb) - Let's predict the number of bike rentals based on features like season, weather, time of day, and holiday status.
+  - 📚 [Exercise - Predicting Bike Rentals](./random-forest/README.md) (WIP 🚧)  - Let's predict the number of bike rentals based on features like season, weather, time of day, and holiday status.
 
 - 📉 **Support Vector Regression (SVR)**: A non-linear regression method that uses the principles of Support Vector Machines (SVM) to predict continuous values by finding the optimal hyperplane.
 
