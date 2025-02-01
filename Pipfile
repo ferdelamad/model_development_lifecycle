@@ -9,6 +9,7 @@ python-dotenv = "==1.0.0"
 scikit-learn = "*"
 pandas = "*"
 matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
