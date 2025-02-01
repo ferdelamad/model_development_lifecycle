@@ -20,6 +20,8 @@ Here are the most common regression algorithms we will explore in this section:
   - 📚 [Exercise - Predicting Bike Rentals](./random-forest/README.md) - Let's predict the number of bike rentals based on features like season, weather, time of day, and holiday status.
 
 - 📉 **Support Vector Regression (SVR)**: A non-linear regression method that uses the principles of Support Vector Machines (SVM) to predict continuous values by finding the optimal hyperplane.
+  - 📚 [Exercise: Support Vector Regression](./svr/README.md) - Use SVR to predict the Red wine quality based on chemical properties like acidity, sugar content, pH, and alcohol level.  
+
 
 - 🌱 **Ridge Regression**: A variation of linear regression that includes a regularization term to avoid overfitting.
 
